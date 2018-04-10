@@ -1,3 +1,7 @@
+/*
+GMRES metoda za rješavanje linearnih sustava
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
